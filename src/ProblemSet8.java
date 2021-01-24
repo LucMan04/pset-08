@@ -1,5 +1,8 @@
 package src;
 
+import java.util.Arrays;
+import java.util.List;
+
 public class ProblemSet8 {
 
     public boolean common(int[] a, int[] b) {
